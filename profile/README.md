@@ -1,9 +1,5 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=CogniTool;AI+Agent+Infrastructure;MCP+Servers+for+Everyone" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/CogniTool"><img src="https://img.shields.io/badge/org-CogniTool-00cc66?style=flat-square&logo=github" alt="GitHub Org"></a>
   <a href="https://www.npmjs.com/org/cognitool"><img src="https://img.shields.io/badge/npm-@cognitool-cb3837?style=flat-square&logo=npm" alt="npm"></a>
   <img src="https://img.shields.io/badge/built%20for-AI%20agents-6e3df5?style=flat-square" alt="AI Agents">
